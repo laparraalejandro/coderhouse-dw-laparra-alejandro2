@@ -32,7 +32,7 @@ Las herramientas usadas para crear este proyecto son las siguientes:
 
 ## Instalacion y Setup
 
-1. Para clonar el repositorio, simplemente use el siguiente comando de GIT:  _`git clone https://github.com/laparraalejandro/curso-dw-laparra-alejandro.git`_
+1. Para clonar el repositorio, simplemente use el siguiente comando de GIT:  _`git clone https://github.com/laparraalejandro/coderhouse-dw-laparra-alejandro2.git`_
 2.  Puede ver una demo del proyecto ingresando al siguiente enlace: [Proyecto en vivo](https://curso-dw-laparra-alejandro.netlify.app/)_
 
 <hr>
